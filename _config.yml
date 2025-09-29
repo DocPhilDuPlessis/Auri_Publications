@@ -1,0 +1,7 @@
+title: "🏰 Fortress Auri"
+description: "Auri Publications – Stories and Manifestos from Fortress Auri"
+theme: minima
+
+# Optional extras
+show_downloads: false
+markdown: kramdown
