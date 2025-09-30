@@ -12,7 +12,7 @@ Helpful links, downloads, and reference material.
   _Key studies and references on dopamine, stress, and resilience._
 
 ### Practical Tools
-- [Stress recovery checklist](./high-stakes-situations-stress-recovery-checklist.pdf)  
+- [High stake situuations - stress recovery checklist](./high-stakes-situations-stress-recovery-checklist.pdf)  
   _Quick steps to reset after high-stakes situations._
 - [Mindfulness practices for crisis professionals](./mindfulness-practices-for-crisis-professionals.md)  
   _Evidence-based techniques for calming the nervous system._
