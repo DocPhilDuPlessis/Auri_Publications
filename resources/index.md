@@ -54,4 +54,4 @@ permalink: /resources/
  
 <hr class="section-line">
 
-> **Note:** Listings are for information, not endorsement. Availability can change; check locally for options in your area.
+**Note:** Listings are for information, not endorsement. Availability can change; check locally for options in your area.
