@@ -25,7 +25,7 @@ permalink: /resources/
 > 📖 “If I tap a word, it should just explain it — simple words.”<b>  
 👉 [Read more voices of lived experience](./dyslexia/Voices-of-experience-dyslexia.md)
 - [Dyslexia self help ideas](./dyslexia/Self-help-ideas-for-dyslexia.md)
-- [Supporting a friend with dyslexia](./dyslexia/Supporting-a-friend-with-dyslexia.md)
+- [Supporting a friend with dyslexia](./dyslexia/Supporting-a-friend-with-dyslexia.md)  
 
 **Assessment & Support (South Africa)**
 - [Dyslexia South Africa](https://dyslexiasouthafrica.com/)  
@@ -33,24 +33,22 @@ permalink: /resources/
 - [Bellavista School / SHARE (Johannesburg)](https://bellavista.org.za/)  
 - [Oakley House Training & Support Centre (Cape Town)](https://www.oakleyhouse.co.za/training_onlinecourses.html)  
 - [Africa Dyslexia Organization](https://africadyslexia.org/)  
-- [Davis Dyslexia Association Africa](https://www.ddaafrica.com/)
+- [Davis Dyslexia Association Africa](https://www.ddaafrica.com/)  
 
 **Assistive Tools & Study Support**
 - [Read&Write – Texthelp](https://www.texthelp.com/products/read-and-write-education/)  
 - [Touch-Type Read & Spell (TTRS)](https://www.readandspell.com/)  
 - [AbilityNet – Dyslexia tools & resources](https://abilitynet.org.uk/news-blogs/dyslexia-tools-software-and-free-resources)  
-- [International Dyslexia Association – Assistive Tech](https://dyslexiaida.org/instructional-and-assistive-technology-maximizing-the-benefits-for-students-who-struggle/)
-
+- [International Dyslexia Association – Assistive Tech](https://dyslexiaida.org/instructional-and-assistive-technology-maximizing-the-benefits-for-students-who-struggle/)  
 
 **Tech - Quickstart (built-in tools)**
 - [Microsoft Immersive Reader — free in Word, OneNote, Edge, Teams, etc.](https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/)
 - [iPhone/iPad “Spoken Content” — system read-aloud.](https://support.apple.com/guide/iphone/hear-whats-on-the-screen-or-typed-iph96b214f0/ios)
-- [Android “Select to Speak” — tap text to hear aloud.](https://support.google.com/accessibility/android/answer/7349565)
-
+- [Android “Select to Speak” — tap text to hear aloud.](https://support.google.com/accessibility/android/answer/7349565)  
 
 **Tech - Screening & Self-checks (not a diagnosis)**
 - [BDA Adult Dyslexia Checklist (UK)](https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists)
-- [IDA Adult Reading History Questionnaire (ARHQ) ](https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/)
+- [IDA Adult Reading History Questionnaire (ARHQ) ](https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/)  
  
 <hr class="section-line">
 
