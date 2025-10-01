@@ -1,106 +1,24 @@
-/* Widen the wrapper for more breathing space */
+/* =========================
+   Layout & Typography
+   ========================= */
 .wrapper {
-  max-width: 960px;      /* default minima is ~800px */
+  max-width: 960px;
   padding: 0 20px;
 }
 
-/* Header bar polish */
-.site-header {
-  border-bottom: 1px solid #eaecef;
-  background: #fff;
-}
-
-/* Base nav link */
-.site-nav .page-link {
-  display: inline-block;
-  border-radius: 6px;
-  text-decoration: none;
-}
-
-/* Desktop spacing */
-@media (min-width: 600px) {
-  .site-nav .page-link {
-    margin-left: 18px;
-    padding: 6px 12px;
-  }
-}
-
-/* Mobile spacing */
-@media (max-width: 599px) {
-  .site-nav .page-link {
-    margin: 8px 0;
-    padding: 10px 12px;
-    display: block;
-  }
-}
-
-.site-nav .page-link:hover {
-  background: #f6f8ff;   /* subtle hover background */
-}
-
-
-/* Highlight voice */
-.highlight-voice {
-  border-left: 6px solid #2E86C1; /* nice blue stripe */
-  background: #f8fbff;            /* soft blue-gray background */
-  padding: 0.75em 1em;
-  margin: 1.5em 0;
-  font-style: italic;
-  color: #333;
-}
-
-
-
-/* Footer container */
-.site-footer {
-  background: #f8f9fa;     /* light gray backdrop */
-  border-top: 1px solid #eaecef;
-  padding: 20px 0;
-  font-size: 0.9rem;
-  color: #555;
-}
-
-/* Footer inner wrapper */
-.site-footer .wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-/* Left & right footer items */
-.site-footer .footer-col {
-  margin: 5px 0;
-}
-
-/* Links */
-.site-footer a {
-  color: #2E86C1;           /* match your highlight blue */
-  text-decoration: none;
-}
-
-.site-footer a:hover {
-  text-decoration: underline;
-}
-
-
-/* Body rhythm */
 body {
   line-height: 1.7;
   font-size: 17px;
 }
 
-/* Section headings: a little drama */
 h2, h3 {
   letter-spacing: .2px;
   margin-top: 1.6em;
   margin-bottom: .6em;
 }
 
-/* Gentle vertical rhythm for paragraphs */
 p { margin: 0.8em 0; }
 
-/* Horizontal rule glow */
 hr {
   border: 0;
   height: 1px;
@@ -108,10 +26,14 @@ hr {
   margin: 2rem 0;
 }
 
+/* =========================
+   Header / Navigation (minima)
+   ========================= */
+.site-header {
+  border-bottom: 1px solid #eaecef;
+  background: #fff;
+}
 
-/* ---------- NAV POLISH (minima) ---------- */
-
-/* Make the header bar a flex row: title left, nav right */
 .site-header .wrapper {
   display: flex;
   align-items: center;
@@ -119,41 +41,38 @@ hr {
   gap: 16px;
 }
 
-/* Push the nav to the right cleanly */
+/* Keep nav to the right */
 .site-nav { margin-left: auto; }
 
-/* Base link look */
+/* Base link look (shared) */
 .site-nav .page-link {
-  text-decoration: none;
   display: inline-block;
   border-radius: 8px;
+  text-decoration: none;
 }
 
-/* Desktop/tablet spacing */
+/* Desktop / tablet */
 @media (min-width: 600px) {
   /* Hide hamburger on wider screens */
   .site-nav .menu-icon { display: none; }
   .site-nav input { display: none; }
   .site-nav .trigger { display: inline-block; }
 
-  /* Comfortable gaps + padding */
   .site-nav .page-link {
-    margin-left: 14px;
-    padding: 6px 10px;
+    margin-left: 18px;
+    padding: 6px 12px;
   }
+
   .site-nav .page-link:hover {
     background: #f6f8ff;
   }
 }
 
-/* Mobile dropdown: stacked links with breathing room */
+/* Mobile */
 @media (max-width: 599px) {
-  .site-nav .trigger {
-    /* ensure dropdown isn’t jammed against the edges */
-    margin-top: 8px;
-  }
+  .site-nav .trigger { margin-top: 8px; }
 
-  /* When the hamburger is opened, minima uses: input:checked ~ .trigger */
+  /* When the hamburger is opened (minima pattern) */
   .site-nav input:checked ~ .trigger .page-link {
     display: block;
     margin: 6px 0;
@@ -165,58 +84,57 @@ hr {
   }
 }
 
-/* Gentle theme colours */
+/* =========================
+   Footer
+   ========================= */
+.site-footer {
+  background: #f8f9fa;
+  border-top: 1px solid #eaecef;
+  padding: 20px 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.site-footer .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-footer .footer-col { margin: 5px 0; }
+
+.site-footer a {
+  color: #2E86C1;
+  text-decoration: none;
+}
+.site-footer a:hover { text-decoration: underline; }
+
+/* =========================
+   Content Helpers
+   ========================= */
+
+/* Primary voice quote (use on blockquotes with {: .highlight-voice }) */
+.highlight-voice {
+  border-left: 8px solid #6C63FF;  /* purple stripe */
+  background: #f6f4ff;             /* soft lilac */
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: #2b2b2b;
+  box-shadow: 0 1px 0 rgba(108,99,255,.15);
+}
+
+/* Optional softer quote variant if you need it later */
 .voice-quote {
-  border-left: 4px solid #6C63FF;  /* purple stripe */
+  border-left: 4px solid #6C63FF;
   padding-left: 14px;
   color: #444;
   background: #f9f9ff;
   font-style: italic;
 }
 
-.empathy {
-  color: #2E86C1; /* calm blue */
-  font-weight: 600;
-}
-
-.struggle {
-  color: #C0392B; /* deep red */
-  font-weight: 600;
-}
-
-.strength {
-  color: #27AE60; /* strong green */
-  font-weight: 700;
-}
-
-
-/* Punchier voice quote (used for his words) */
-.highlight-voice {
-  border-left: 8px solid #6C63FF;  /* deeper purple */
-  background: #f6f4ff;             /* softer lilac */
-  padding: 1rem 1.1rem;
-  margin: 1.25rem 0;
-  font-style: italic;
-  color: #2b2b2b;
-  box-shadow: 0 1px 0 rgba(108, 99, 255, 0.15);
-}
-
-/* Optional: lead-in accent for the first line/para */
+/* Lede paragraph accent (apply with {: .lede } on a line) */
 .lede {
   font-size: 1.08rem;
-  line-height: 1.8;
-  color: #2E3A59;
-}
-
-/* Soft section divider for long reads */
-.section-line {
-  border: 0;
-  height: 1px;
-  background: linear-gradient(to right, transparent, #e6e6ff, transparent);
-  margin: 1.5rem 0;
-}
-
-/* Emphasis chips you can sprinkle with <span> */
-.empathy  { color: #2E86C1; font-weight: 600; }
-.struggle { color: #C0392B; font-weight: 600; }
-.strength { color: #27AE60; font-weight: 700; }
+  line-heigh
