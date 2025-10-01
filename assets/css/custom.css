@@ -115,7 +115,9 @@
   padding: 0.1em 0.3em;
   border-radius: 0.3em;
   font-weight: bold;
-  display: inline-block;
+  display: block;
+  width: fit-content;
+  margin: 0.5em 0;
 }
 .strength, span.strength, div.strength {
   background: linear-gradient(90deg, #d4fc79 0%, #96e6a1 100%);
@@ -123,7 +125,9 @@
   padding: 0.1em 0.3em;
   border-radius: 0.3em;
   font-weight: bold;
-  display: inline-block;
+  display: block;
+  width: fit-content;
+  margin: 0.5em 0;
 }
 .empathy, span.empathy, div.empathy {
   background: linear-gradient(90deg, #a1c4fd 0%, #c2e9fb 100%);
@@ -131,7 +135,9 @@
   padding: 0.1em 0.3em;
   border-radius: 0.3em;
   font-weight: bold;
-  display: inline-block;
+  display: block;
+  width: fit-content;
+  margin: 0.5em 0;
 }
 .voice-quote {
   display: block;
@@ -153,7 +159,9 @@
     padding: 0.15em 0.4em;
     border-radius: 0.4em;
     box-shadow: 0 1px 6px rgba(0,0,0,0.07);
-    display: inline-block;
+    display: block;
+    width: fit-content;
+    margin: 0.5em 0;
   }
   .voice-quote {
     font-size: 1.12em;
