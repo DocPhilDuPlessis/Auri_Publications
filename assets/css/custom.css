@@ -68,21 +68,27 @@ hr {
   }
 }
 
-/* Mobile */
+/* Mobile nav sizing */
 @media (max-width: 599px) {
-  .site-nav .trigger { margin-top: 8px; }
-
-  /* When the hamburger is opened (minima pattern) */
   .site-nav input:checked ~ .trigger .page-link {
     display: block;
     margin: 6px 0;
-    padding: 10px 12px;
+    padding: 8px 10px;     /* slimmer tap target */
+    font-size: 0.95rem;    /* slightly smaller text */
     border-top: 1px solid #eee;
   }
-  .site-nav input:checked ~ .trigger .page-link:first-child {
-    border-top: 0;
+
+  /* site title a bit smaller on mobile */
+  .site-title {
+    font-size: 1.1rem;
+  }
+
+  /* body text scale down a touch */
+  body {
+    font-size: 16px;
   }
 }
+
 
 /* =========================
    Footer
@@ -137,4 +143,5 @@ hr {
 /* Lede paragraph accent (apply with {: .lede } on a line) */
 .lede {
   font-size: 1.08rem;
-  line-heigh
+  line-height: 1.6;
+}
