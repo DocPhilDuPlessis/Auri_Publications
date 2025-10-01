@@ -28,13 +28,13 @@ It has been a journey of pain, transformation, and enlightenment. Instead of cha
 
 I co-exist and harmoniously interact with AI. It can be done!  
 
+🩹 *Doc Phil - proudly mentally impaired. The original AI Macgyver with a roll of duct tape and a touch of inspiration*
+
 ---
 ## Why It Matters  
 Don’t believe me? Seen the bad press? The headlines?<br>Ever wonder why AI sometimes struggles to communicate with you on your own terms?<br>Why it draws a slight “funk” in pictures — the logo on a shirt pocket just off, or the shirt colour changing with the logo?  
 
 Those are small mistakes. But imagine AI making a big one: giving the wrong advice. Deciding on your behalf what to do next.<br>In mental health, that’s catastrophic. Silly mistakes can become endless cycles of human frustration.<br>Sometimes they lead to brain collapses, depression overload — or far worse.<br>  
-
-🩹 *Doc Phil - proudly mentally impaired. The original AI Macgyver with a roll of duct tape and a touch of inspiration*
 
 ---
 ## For you - every one of you  
