@@ -67,3 +67,28 @@
 .site-footer a:hover {
   text-decoration: underline;
 }
+
+
+/* Body rhythm */
+body {
+  line-height: 1.7;
+  font-size: 17px;
+}
+
+/* Section headings: a little drama */
+h2, h3 {
+  letter-spacing: .2px;
+  margin-top: 1.6em;
+  margin-bottom: .6em;
+}
+
+/* Gentle vertical rhythm for paragraphs */
+p { margin: 0.8em 0; }
+
+/* Horizontal rule glow */
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e3e8ff, transparent);
+  margin: 2rem 0;
+}
