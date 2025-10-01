@@ -1,3 +1,28 @@
+.struggle, .strength, .empathy {
+  background: linear-gradient(90deg, #ffecd2 0%, #fcb69f 100%) !important;
+  color: #b22222 !important;
+  padding: 0.1em 0.3em !important;
+  border-radius: 0.3em !important;
+  font-weight: bold !important;
+  display: inline-block !important;
+}
+.strength {
+  background: linear-gradient(90deg, #d4fc79 0%, #96e6a1 100%) !important;
+  color: #228B22 !important;
+}
+.empathy {
+  background: linear-gradient(90deg, #a1c4fd 0%, #c2e9fb 100%) !important;
+  color: #1e3c72 !important;
+}
+@media (max-width: 599px) {
+  .struggle, .strength, .empathy {
+    font-size: 1.12em !important;
+    padding: 0.15em 0.4em !important;
+    border-radius: 0.4em !important;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.07) !important;
+    display: inline-block !important;
+  }
+}
 /* =========================
    Header / Navigation (minima) – REFACTORED
    ========================= */
