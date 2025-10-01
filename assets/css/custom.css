@@ -131,3 +131,32 @@
   font-style: italic;
   font-size: 1.08em;
 }
+
+/* ---------- Mobile (≤599px) Dyslexia Highlights ---------- */
+@media (max-width: 599px) {
+  .struggle, .strength, .empathy {
+    font-size: 1.15em;
+    padding: 0.18em 0.5em;
+    border-radius: 0.5em;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.07);
+  }
+  .struggle {
+    background: linear-gradient(90deg, #ffe5b4 0%, #ffb6b9 100%);
+    color: #a80000;
+  }
+  .strength {
+    background: linear-gradient(90deg, #b7ffb4 0%, #a1e6b9 100%);
+    color: #176d1a;
+  }
+  .empathy {
+    background: linear-gradient(90deg, #b4e1ff 0%, #b9e6ff 100%);
+    color: #174a7d;
+  }
+  .voice-quote {
+    font-size: 1.15em;
+    padding: 1em 1.2em;
+    border-left-width: 8px;
+    background: #fff8d6;
+    color: #a67c00;
+  }
+}
