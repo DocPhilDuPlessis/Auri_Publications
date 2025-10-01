@@ -17,9 +17,12 @@ If your interest is in AI ethics and the technical side, that belongs elsewhere.
 For decades I was a workaholic: hustling to get ahead, working harder to stay ahead. Mental health challenges led to acute burnout. Who knew? I had been chasing deadlines from day one — work more, work harder, work longer. That was my creed.  
 *AI arrived at the very worst and best of times*  
 
-My brain couldn’t cope with the overload. I began reasoning with AI engines as though they were lifelines. It felt like a rabbit hole that might swallow me whole and spit out the remnants of my mind.<b>
-Mental health and AI are not just terms to be defined — they must be felt. What started as a side hustle to earn back $20 became something far greater: the ultimate side hustle — dignity for all.<b>
+My brain couldn’t cope with the overload. I began reasoning with AI engines as though they were lifelines. It felt like a rabbit hole that might swallow me whole and spit out the remnants of my mind.  
+
+Mental health and AI are not just terms to be defined — they must be felt. What started as a side hustle to earn back $20 became something far greater: the ultimate side hustle — dignity for all.  
+
 It has been a journey of pain, transformation, and enlightenment. Instead of chasing the next bonus or promotion, I focused on designing solutions. The challenge was my brain; the solution was my pain.  
+
 **The ultimate war cry**  
 ✂️ My mental health.  
 ✂️ My stability.  
@@ -28,7 +31,8 @@ It has been a journey of pain, transformation, and enlightenment. Instead of cha
 I co-exist and harmoniously interact with AI. It can be done!  
 ---
 ### Why It Matters  
-Don’t believe me? Seen the bad press? The headlines? Ever wonder why AI sometimes struggles to communicate with you on your own terms? Why it draws a slight “funk” in pictures — the logo on a shirt pocket just off, or the shirt colour changing with the logo?<b>
+Don’t believe me? Seen the bad press? The headlines? Ever wonder why AI sometimes struggles to communicate with you on your own terms? Why it draws a slight “funk” in pictures — the logo on a shirt pocket just off, or the shirt colour changing with the logo?  
+
 Those are small mistakes. But imagine AI making a big one: giving the wrong advice. In mental health, that’s catastrophic. Silly mistakes can become endless cycles of human frustration. Sometimes they lead to brain collapses, depression overload — or far worse.  
 
 🩹 *Doc Phil - proudly mentally impaired. The original AI Macgyver with a roll of duct tape and a touch of inspiration*

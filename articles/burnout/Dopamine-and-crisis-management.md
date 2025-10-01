@@ -4,13 +4,25 @@ hide_title: true
 ---
 
 ## Introduction  
-I’ve just come through two major crises back-to-back. In the moment, the intensity was overwhelming — but once resolved, I felt an unmistakable high pulsing through my body. It was as if my veins carried relief, pride, and raw energy all at once. And yet, I know the next crisis could bring me crashing down. This cycle of highs and lows sparked my reflection on how dopamine shapes our response to crisis and resolution.
+I’ve just come through two major crises back-to-back. In the moment, the intensity was overwhelming — but once resolved, I felt an unmistakable high pulsing through my body.  
+
+It was as if my veins carried relief, pride, and raw energy all at once. And yet, I know the next crisis could bring me crashing down.  
+
+This cycle of highs and lows sparked my reflection on how dopamine shapes our response to crisis and resolution.  
 
 ## The High of Resolution  
-When a crisis hits, our bodies go into high alert. Stress hormones like adrenaline and cortisol sharpen our focus, while dopamine fuels motivation to act. In the thick of it, this cocktail gives us clarity and drive. When we succeed in resolving the crisis, dopamine surges. That “high in the veins” is a reward signal — a rush that reinforces our ability to overcome challenges.
+When a crisis hits, our bodies go into high alert. Stress hormones like adrenaline and cortisol sharpen our focus, while dopamine fuels motivation to act.  
+
+In the thick of it, this cocktail gives us clarity and drive. When we succeed in resolving the crisis, dopamine surges.  
+
+That “high in the veins” is a reward signal — a rush that reinforces our ability to overcome challenges.
 
 ## The Crash That Follows  
-But every high has a low. Once the crisis passes and dopamine levels drop, the body downshifts. Fatigue, irritability, or emptiness can follow. This crash isn’t weakness — it’s biology rebalancing. Yet, repeated cycles of crisis and resolution can condition the brain to crave intensity, creating a dangerous loop.
+But every high has a low. Once the crisis passes and dopamine levels drop, the body downshifts.  
+
+Fatigue, irritability, or emptiness can follow. This crash isn’t weakness — it’s biology rebalancing.  
+
+Yet, repeated cycles of crisis and resolution can condition the brain to crave intensity, creating a dangerous loop.
 
 ## The Good, the Bad, the Ugly  
 - **The Good:** Rising to the challenge builds resilience. Each resolved crisis strengthens confidence and skill.  
@@ -25,4 +37,4 @@ To manage the cycle more sustainably:
 
 ---
 
-Crisis will always bring intensity, but balance comes from learning to cultivate steady sources of energy and reward outside of chaos.  
+Crisis will always bring intensity, but **balance comes from learning to cultivate steady sources of energy and reward outside of chaos.** 
