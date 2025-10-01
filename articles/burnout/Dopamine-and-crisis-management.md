@@ -2,8 +2,6 @@
 title: Dopamine and crisis management
 ---
 
-# Dopamine and Crisis Management
-
 ## Introduction  
 I’ve just come through two major crises back-to-back. In the moment, the intensity was overwhelming — but once resolved, I felt an unmistakable high pulsing through my body. It was as if my veins carried relief, pride, and raw energy all at once. And yet, I know the next crisis could bring me crashing down. This cycle of highs and lows sparked my reflection on how dopamine shapes our response to crisis and resolution.
 
