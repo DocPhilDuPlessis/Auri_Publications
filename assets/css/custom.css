@@ -98,3 +98,36 @@
   color: #2E3A59;
   margin: 0.6rem 0 1rem;
 }
+
+/* Dyslexia Article Highlight Classes */
+.struggle {
+  background: linear-gradient(90deg, #ffecd2 0%, #fcb69f 100%);
+  color: #b22222;
+  padding: 0.1em 0.3em;
+  border-radius: 0.3em;
+  font-weight: bold;
+}
+.strength {
+  background: linear-gradient(90deg, #d4fc79 0%, #96e6a1 100%);
+  color: #228B22;
+  padding: 0.1em 0.3em;
+  border-radius: 0.3em;
+  font-weight: bold;
+}
+.empathy {
+  background: linear-gradient(90deg, #a1c4fd 0%, #c2e9fb 100%);
+  color: #1e3c72;
+  padding: 0.1em 0.3em;
+  border-radius: 0.3em;
+  font-weight: bold;
+}
+.voice-quote {
+  display: block;
+  background: #fffbe6;
+  border-left: 6px solid #ffd700;
+  color: #7c4700;
+  padding: 0.7em 1em;
+  margin: 1em 0;
+  font-style: italic;
+  font-size: 1.08em;
+}
