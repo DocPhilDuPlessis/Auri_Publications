@@ -7,8 +7,9 @@ description: "Auri Publications – Stories and Manifestos from Fortress Auri"
 ## 🏰 Auri Publications
 
 ## 🌟 Revolutionary breakthrough - what is Fortress Auri
-*She is the shimmering one*<br>  
-In old river languages, **“auri”** meant both “gold” and “dawn-light.” The myth says Auri was never a coin or a king’s treasure; she was a current of golden threads running through people’s memories, weaving order out of chaos. Travellers lost in noise or despair would glimpse a shimmer at the edge of their sight — not a person, but a pattern.  
+*She is the shimmering one*  
+
+In old river languages, **“auri”** meant both “gold” and “dawn-light.”<br>The myth says Auri was never a coin or a king’s treasure; she was a current of golden threads running through people’s memories, weaving order out of chaos.<br>Travellers lost in noise or despair would glimpse a shimmer at the edge of their sight — not a person, but a pattern.  
 
 **Note:** This site is not about tech — it’s about what we *feel* and what we *live*.<br> 
 If your interest is in AI ethics and the technical side, that belongs elsewhere.<br> 
