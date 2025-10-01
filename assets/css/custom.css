@@ -188,3 +188,35 @@ hr {
   color: #27AE60; /* strong green */
   font-weight: 700;
 }
+
+
+/* Punchier voice quote (used for his words) */
+.highlight-voice {
+  border-left: 8px solid #6C63FF;  /* deeper purple */
+  background: #f6f4ff;             /* softer lilac */
+  padding: 1rem 1.1rem;
+  margin: 1.25rem 0;
+  font-style: italic;
+  color: #2b2b2b;
+  box-shadow: 0 1px 0 rgba(108, 99, 255, 0.15);
+}
+
+/* Optional: lead-in accent for the first line/para */
+.lede {
+  font-size: 1.08rem;
+  line-height: 1.8;
+  color: #2E3A59;
+}
+
+/* Soft section divider for long reads */
+.section-line {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #e6e6ff, transparent);
+  margin: 1.5rem 0;
+}
+
+/* Emphasis chips you can sprinkle with <span> */
+.empathy  { color: #2E86C1; font-weight: 600; }
+.struggle { color: #C0392B; font-weight: 600; }
+.strength { color: #27AE60; font-weight: 700; }

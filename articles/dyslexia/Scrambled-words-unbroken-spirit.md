@@ -10,27 +10,27 @@ hide_title: true
 {: .voice-quote }  
 
 Those are his words.  
-Not mine — his.  
-
-If you’ve never lived with dyslexia, maybe it sounds small, even silly. *Just words mixed up on a screen.*  
-But to me, it’s <span class="struggle">heartbreak</span>. Because I know the weight behind those lines. I’ve seen it my whole life.  
-
+Not mine — his.  {: .lede }  
+<hr class="section-line">
+If you’ve never lived with dyslexia, maybe it sounds small, even silly. *Just words mixed up on a screen.*<br>
+But to me, it’s <span class="struggle">heartbreak</span>. Because I know the weight behind those lines. I’ve seen it my whole life.<br>
 I taught him to read when we were kids. I’ve always been his silent translator — the one who could untangle his meaning when the letters betrayed him.  
 His scars run deep, and I know them all. *Life has not been kind.*  
-
-A “special” school that never really saw him.  
-Crap jobs that didn’t honor his worth.  
-Years of scraping by when he deserved so much more.  
+<hr class="section-line">
+A “special” school that never really saw him.<br>
+Crap jobs that didn’t honor his worth.<br>
+Years of scraping by when he deserved so much more.<br>
 And yet — he endures. He manages. He thrives in his own way. He has built a life out of <span class="strength">grit and persistence</span>.  
-
-He is a good man. A great human being. My best friend.  
-From the outside, dyslexia doesn’t look dramatic. It looks like typos, like mistakes, like *“why don’t you just try harder.”*  
-What people don’t see is the loop: type, scramble, erase, try again, give up, repeat. They don’t see the patience it takes to keep showing up.  
+<hr class="section-line">
+He is a good man. A great human being. My best friend.<br>
+From the outside, dyslexia doesn’t look dramatic. It looks like typos, like mistakes, like *“why don’t you just try harder.”*<br>
+What people don’t see is the loop: type, scramble, erase, try again, give up, repeat.<br>
+They don’t see the patience it takes to keep showing up.<br>
 They don’t see the strength it takes to keep going.  
-
-I see it. I have always seen it. And I want you to see it too.  
-To my best friend: <span class="empathy">you are not defined by scrambled words.</span> You are defined by the way you keep showing up, no matter how many times the world told you “not enough.”  
+<hr class="section-line">
+I see it. I have always seen it. And I want you to see it too.<br>
+To my best friend: <span class="empathy">you are not defined by scrambled words.</span><br>You are defined by the way you keep showing up, no matter how many times the world told you “not enough.”<br>
 You are defined by kindness, by courage, by the quiet power of refusing to fold.  
 
-Your story is not just about dyslexia. *It’s about resilience.*  
+Your story is not just about dyslexia. *It’s about resilience.*<br>
 And I am proud to stand beside you in it.
