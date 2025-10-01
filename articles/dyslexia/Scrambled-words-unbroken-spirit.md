@@ -20,7 +20,8 @@ His scars run deep, and I know them all. *Life has not been kind.*
 A “special” school that never really saw him.<br>
 Crap jobs that didn’t honor his worth.<br>
 Years of scraping by when he deserved so much more.<br>
-And yet — he endures. He manages. He thrives in his own way. <div class="strength">He has built a life out of grit and persistence.</div><br>   
+And yet — he endures. He manages. He thrives in his own way.<br>  
+<div class="strength">He has built a life out of grit and persistence.</div><br>  
 <hr class="section-line">
 He is a good man. A great human being. My best friend.<br>
 From the outside, dyslexia doesn’t look dramatic. It looks like typos, like mistakes, like *“why don’t you just try harder.”*<br>
