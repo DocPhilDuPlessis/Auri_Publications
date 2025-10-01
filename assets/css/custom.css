@@ -13,11 +13,12 @@
 /* Nav links spacing + styling */
 .site-nav .page-link {
   display: inline-block;
-  margin-left: 15px;
-  padding: 6px 12px;
+  margin-left: 18px;     /* pick one value */
+  padding: 6px 12px;     /* pick one value */
   border-radius: 6px;
   text-decoration: none;
 }
+
 
 .site-nav .page-link:hover {
   background: #f6f8ff;   /* subtle hover background */

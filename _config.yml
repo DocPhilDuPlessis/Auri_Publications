@@ -2,9 +2,8 @@ title: "🏰 Fortress Auri"
 description: "Auri Publications – Stories and Manifestos from Fortress Auri"
 theme: minima
 
-# Show these pages as top-nav
+# Only show these in the top nav (do NOT include index.md here)
 header_pages:
-  - index.md
   - articles/index.md
   - blogs/index.md
   - resources/index.md
@@ -12,7 +11,6 @@ header_pages:
 show_downloads: false
 markdown: kramdown
 
-# (Optional) SEO/Sitemap plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
