@@ -1,3 +1,30 @@
+/* Widen the wrapper for more breathing space */
+.wrapper {
+  max-width: 960px;      /* default minima is ~800px */
+  padding: 0 20px;
+}
+
+/* Header bar polish */
+.site-header {
+  border-bottom: 1px solid #eaecef;
+  background: #fff;
+}
+
+/* Nav links spacing + styling */
+.site-nav .page-link {
+  display: inline-block;
+  margin-left: 15px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.site-nav .page-link:hover {
+  background: #f6f8ff;   /* subtle hover background */
+}
+
+
+/* Highlight voice */
 .highlight-voice {
   border-left: 6px solid #2E86C1; /* nice blue stripe */
   background: #f8fbff;            /* soft blue-gray background */
@@ -5,4 +32,38 @@
   margin: 1.5em 0;
   font-style: italic;
   color: #333;
+}
+
+
+
+/* Footer container */
+.site-footer {
+  background: #f8f9fa;     /* light gray backdrop */
+  border-top: 1px solid #eaecef;
+  padding: 20px 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Footer inner wrapper */
+.site-footer .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* Left & right footer items */
+.site-footer .footer-col {
+  margin: 5px 0;
+}
+
+/* Links */
+.site-footer a {
+  color: #2E86C1;           /* match your highlight blue */
+  text-decoration: none;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
 }
