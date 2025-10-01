@@ -43,17 +43,14 @@ permalink: /resources/
 
 
 **Tech - Quickstart (built-in tools)**
-- Microsoft Immersive Reader — free in Word, OneNote, Edge, Teams, etc.  
-  https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/
-- iPhone/iPad “Spoken Content” — system read-aloud.  
-  https://support.apple.com/guide/iphone/hear-whats-on-the-screen-or-typed-iph96b214f0/ios
-- Android “Select to Speak” — tap text to hear aloud.  
-  https://support.google.com/accessibility/android/answer/7349565
+- [Microsoft Immersive Reader — free in Word, OneNote, Edge, Teams, etc.](https://learn.microsoft.com/en-us/training/educator-center/product-guides/immersive-reader/)
+- [iPhone/iPad “Spoken Content” — system read-aloud.](https://support.apple.com/guide/iphone/hear-whats-on-the-screen-or-typed-iph96b214f0/ios)
+- [Android “Select to Speak” — tap text to hear aloud.](https://support.google.com/accessibility/android/answer/7349565)
+
 
 **Tech - Screening & Self-checks (not a diagnosis)**
-- BDA Adult Dyslexia Checklist (UK)  
-  https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists
-- IDA Adult Reading History Questionnaire (ARHQ)  
-  https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/
+- [BDA Adult Dyslexia Checklist (UK)](https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists)
+- [IDA Adult Reading History Questionnaire (ARHQ) ](https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/)
+ 
 
 > **Note:** Listings are for information, not endorsement. Availability can change; check locally for options in your area.
