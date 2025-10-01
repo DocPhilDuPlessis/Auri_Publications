@@ -27,8 +27,6 @@ permalink: /resources/
 - [Dyslexia self help ideas](./dyslexia/Self-help-ideas-for-dyslexia.md)
 - [Supporting a friend with dyslexia](./dyslexia/Supporting-a-friend-with-dyslexia.md)
 
-
-
 **Assessment & Support (South Africa)**
 - [Dyslexia South Africa](https://dyslexiasouthafrica.com/)  
 - [Stark Griffin Dyslexia Academy](https://www.sgda.co.za/)  
@@ -57,6 +55,5 @@ permalink: /resources/
   https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists
 - IDA Adult Reading History Questionnaire (ARHQ)  
   https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/
-
 
 > **Note:** Listings are for information, not endorsement. Availability can change; check locally for options in your area.
