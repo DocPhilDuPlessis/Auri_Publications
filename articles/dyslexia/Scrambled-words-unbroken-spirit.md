@@ -9,8 +9,8 @@ hide_title: true
 > — His words
 {: .voice-quote }  
 
-Those are his words.  
-Not mine — his.  {: .lede }  
+<p class="lede">Those are his words.<br>Not mine — his.</p>
+
 <hr class="section-line">
 If you’ve never lived with dyslexia, maybe it sounds small, even silly. *Just words mixed up on a screen.*<br>
 But to me, it’s <span class="struggle">heartbreak</span>. Because I know the weight behind those lines. I’ve seen it my whole life.<br>
