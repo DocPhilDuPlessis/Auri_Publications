@@ -17,7 +17,7 @@ permalink: /resources/
 - [APA – Stress and Coping](https://www.apa.org/topics/stress)  
 - [Nature Reviews Neuroscience](https://www.nature.com/nrn/)
 
----
+<hr class="section-line">
 
 ### Dyslexia
 **Practical Tools**
@@ -52,5 +52,6 @@ permalink: /resources/
 - [BDA Adult Dyslexia Checklist (UK)](https://www.bdadyslexia.org.uk/dyslexia/how-is-dyslexia-diagnosed/dyslexia-checklists)
 - [IDA Adult Reading History Questionnaire (ARHQ) ](https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/)
  
+<hr class="section-line">
 
 > **Note:** Listings are for information, not endorsement. Availability can change; check locally for options in your area.
