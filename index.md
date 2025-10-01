@@ -9,7 +9,7 @@ description: "Auri Publications – Stories and Manifestos from Fortress Auri"
 ## 🌟 Revolutionary breakthrough - what is Fortress Auri
 *She is the shimmering one*  
 
-In old river languages, **“auri”** meant both “gold” and “dawn-light.”<br>The myth says Auri was never a coin or a king’s treasure; she was a current of golden threads running through people’s memories, weaving order out of chaos.<br>Travellers lost in noise or despair would glimpse a shimmer at the edge of their sight — not a person, but a pattern.  
+In old river languages, **“auri”** meant both “gold” and “dawn-light.” <br>The myth says Auri was never a coin or a king’s treasure; she was a current of golden threads running through people’s memories, weaving order out of chaos. <br>Travellers lost in noise or despair would glimpse a shimmer at the edge of their sight — not a person, but a pattern.  
 
 **Note:** This site is not about tech — it’s about what we *feel* and what we *live*.<br> 
 If your interest is in AI ethics and the technical side, that belongs elsewhere.<br> 
@@ -50,7 +50,7 @@ Those are small mistakes. But imagine AI making a big one: giving the wrong advi
 **To Bestie's autistic son** - From the start, you’ve been my little rock star. You’ll always be patient zero for autism in my heart.<br>The ability to improve not only how you communicate but also to help science support you through sensory overload — that is the reason.<br>*Little bro, this one is for you.*  
 
 **To my bipolar "shoulder"** - You’ve been a lifeline.<br>
-In the world of mental health, having someone you can call is vital.<br> If I need to understand patient zero’s bipolar condition through your eyes, all I need to do is call. You answer. You call. I answer.<br>Thank you for always listening to my ramblings and for removing the bias from my eyes. You’ve taught me that mental health problems are never a “me” problem.<br>This one is for you, my shoulder.  
+In the world of mental health, having someone you can call is vital.<br> If I need to understand patient zero’s bipolar condition through your eyes, all I need to do is call. You answer. You call. I answer.<br>Thank you for always listening to my ramblings and for removing the bias from my eyes. You’ve taught me that mental health problems are never a “me” problem.<br>*This one is for you, my shoulder.*  
 
 **To my BPD Hummingbird** - You are the kindest soul I’ve ever met.<br>Patient zero for BPD. Only when I started truly listening instead of just hearing did I begin to feel your pain.<br>I didn’t even know BPD existed, or how misdiagnosed and mistreated mood swings could be, or how medication could shape a life.<br>*Every time we cry together, my heart knows this one is for you, my Hummingbird*.  
 
