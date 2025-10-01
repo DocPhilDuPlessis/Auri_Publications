@@ -92,3 +92,60 @@ hr {
   background: linear-gradient(to right, transparent, #e3e8ff, transparent);
   margin: 2rem 0;
 }
+
+
+/* ---------- NAV POLISH (minima) ---------- */
+
+/* Make the header bar a flex row: title left, nav right */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+/* Push the nav to the right cleanly */
+.site-nav { margin-left: auto; }
+
+/* Base link look */
+.site-nav .page-link {
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+/* Desktop/tablet spacing */
+@media (min-width: 600px) {
+  /* Hide hamburger on wider screens */
+  .site-nav .menu-icon { display: none; }
+  .site-nav input { display: none; }
+  .site-nav .trigger { display: inline-block; }
+
+  /* Comfortable gaps + padding */
+  .site-nav .page-link {
+    margin-left: 14px;
+    padding: 6px 10px;
+  }
+  .site-nav .page-link:hover {
+    background: #f6f8ff;
+  }
+}
+
+/* Mobile dropdown: stacked links with breathing room */
+@media (max-width: 599px) {
+  .site-nav .trigger {
+    /* ensure dropdown isn’t jammed against the edges */
+    margin-top: 8px;
+  }
+
+  /* When the hamburger is opened, minima uses: input:checked ~ .trigger */
+  .site-nav input:checked ~ .trigger .page-link {
+    display: block;
+    margin: 6px 0;
+    padding: 10px 12px;
+    border-top: 1px solid #eee;
+  }
+  .site-nav input:checked ~ .trigger .page-link:first-child {
+    border-top: 0;
+  }
+}
