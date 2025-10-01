@@ -22,7 +22,7 @@ permalink: /resources/
 ### Dyslexia
 **Practical Tools**
 > 🌈 “Don’t know how it works – but if the words are colourful, it registers faster.”  
-> 📖 “If I tap a word, it should just explain it — simple words.”  
+> 📖 “If I tap a word, it should just explain it — simple words.”<b>  
 👉 [Read more voices of lived experience](./dyslexia/Voices-of-experience-dyslexia.md)
 - [Dyslexia self help ideas](./dyslexia/Self-help-ideas-for-dyslexia.md)
 - [Supporting a friend with dyslexia](./dyslexia/Supporting-a-friend-with-dyslexia.md)
