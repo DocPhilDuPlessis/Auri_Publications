@@ -3,7 +3,13 @@ title: Scrambled Words, Unbroken Spirit
 ---
 
 # Scrambled Words, Unbroken Spirit
-“I am so tired of typing messages only to read at the end and see scramble. Then I wipe out and type again. Over and over. Eventually I get so frustrated I give up.”
+> “I am so tired of typing messages only to read at the end and see scramble. 
+> Then I wipe out and type again. Over and over. 
+> Eventually I get so frustrated I give up.”
+>
+> — His words
+{: .highlight-voice }
+
 
 Those are his words.
 Not mine — his.

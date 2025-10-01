@@ -1,0 +1,8 @@
+.highlight-voice {
+  border-left: 6px solid #2E86C1; /* nice blue stripe */
+  background: #f8fbff;            /* soft blue-gray background */
+  padding: 0.75em 1em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: #333;
+}
