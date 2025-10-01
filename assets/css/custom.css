@@ -1,39 +1,10 @@
 /* =========================
-   Layout & Typography
-   ========================= */
-.wrapper {
-  max-width: 960px;
-  padding: 0 20px;
-}
-
-body {
-  line-height: 1.7;
-  font-size: 17px;
-}
-
-h2, h3 {
-  letter-spacing: .2px;
-  margin-top: 1.6em;
-  margin-bottom: .6em;
-}
-
-p { margin: 0.8em 0; }
-
-hr {
-  border: 0;
-  height: 1px;
-  background: linear-gradient(to right, transparent, #e3e8ff, transparent);
-  margin: 2rem 0;
-}
-
-/* =========================
-   Header / Navigation (minima)
+   Header / Navigation (minima) – REFACTORED
    ========================= */
 .site-header {
   border-bottom: 1px solid #eaecef;
   background: #fff;
 }
-
 .site-header .wrapper {
   display: flex;
   align-items: center;
@@ -51,7 +22,7 @@ hr {
   text-decoration: none;
 }
 
-/* Desktop / tablet */
+/* ---------- Desktop & Tablet (≥600px) ---------- */
 @media (min-width: 600px) {
   /* Hide hamburger on wider screens */
   .site-nav .menu-icon { display: none; }
@@ -62,119 +33,68 @@ hr {
     margin-left: 18px;
     padding: 6px 12px;
   }
-
   .site-nav .page-link:hover {
     background: #f6f8ff;
   }
 }
 
-/* Mobile nav sizing */
+/* ---------- Mobile (≤599px) ---------- */
+/* Single, consolidated block */
 @media (max-width: 599px) {
+  /* Base body text (kept modest so nav/title can scale) */
+  body { font-size: 16px; line-height: 1.7; }
+
+  /* Bigger, comfy tap targets even when menu is CLOSED */
+  .site-nav .page-link {
+    font-size: 1.125rem;     /* ~18px */
+    padding: 12px 14px;      /* 44px-ish combined height with line-height */
+    line-height: 1.2;
+  }
+
+  /* Hamburger hit area */
+  .site-nav .menu-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;             /* recommended minimum tap target */
+    height: 44px;
+  }
+  .site-nav .menu-icon svg,
+  .site-nav .menu-icon img {
+    width: 28px;
+    height: 28px;
+  }
+
+  /* Mobile menu behavior (minima-compatible) */
+  .site-nav .trigger { display: none; }
+  .site-nav input:checked ~ .trigger { display: block; }
+
+  /* When open, stack items with subtle separators */
   .site-nav input:checked ~ .trigger .page-link {
     display: block;
     margin: 6px 0;
-    padding: 8px 10px;     /* slimmer tap target */
-    font-size: 0.95rem;    /* slightly smaller text */
     border-top: 1px solid #eee;
   }
+  .site-nav input:checked ~ .trigger .page-link:first-child { border-top: 0; }
 
-  /* site title a bit smaller on mobile */
-  .site-title {
-    font-size: 1.1rem;
-  }
+  /* Header balance */
+  .site-title { font-size: 1.25rem; }
 
-  /* body text scale down a touch */
-  body {
-    font-size: 16px;
+  /* Lede: bring back a distinct mobile voice */
+  .lede {
+    font-size: 1.1rem;       /* slightly larger than body on mobile */
+    line-height: 1.9;
+    margin: 0.8rem 0 1.2rem;
   }
 }
-
 
 /* =========================
-   Footer
+   Lede (Desktop/Global)
    ========================= */
-.site-footer {
-  background: #f8f9fa;
-  border-top: 1px solid #eaecef;
-  padding: 20px 0;
-  font-size: 0.9rem;
-  color: #555;
-}
-
-.site-footer .wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.site-footer .footer-col { margin: 5px 0; }
-
-.site-footer a {
-  color: #2E86C1;
-  text-decoration: none;
-}
-.site-footer a:hover { text-decoration: underline; }
-
-/* =========================
-   Content Helpers
-   ========================= */
-
-/* Primary voice quote (use on blockquotes with {: .highlight-voice }) */
-.highlight-voice {
-  border-left: 8px solid #6C63FF;  /* purple stripe */
-  background: #f6f4ff;             /* soft lilac */
-  padding: 1rem 1.2rem;
-  margin: 1.5rem 0;
-  font-style: italic;
-  color: #2b2b2b;
-  box-shadow: 0 1px 0 rgba(108,99,255,.15);
-}
-
-/* Optional softer quote variant if you need it later */
-.voice-quote {
-  border-left: 4px solid #6C63FF;
-  padding-left: 14px;
-  color: #444;
-  background: #f9f9ff;
-  font-style: italic;
-}
-
-/* Lede paragraph accent */
 .lede {
-  display: block;            /* ensure it’s treated as a block */
-  font-size: 1.05rem;        /* modest, not huge */
+  display: block;
+  font-size: 1.05rem;        /* desktop modest accent */
   line-height: 1.8;
   color: #2E3A59;
-  margin: 0.6rem 0 1rem;     /* a touch of breathing room */
-}
-
-
-/* ===== Mobile tuning (comfortable, not huge) ===== */
-@media (max-width: 599px) {
-  /* Body + title scale */
-  body { font-size: 16px; }        /* base text */
-  .site-title { font-size: 1.2rem; }
-
-  /* Hamburger dropdown links (minima pattern: input:checked ~ .trigger) */
-  .site-nav input:checked ~ .trigger .page-link {
-    display: block;
-    font-size: 1.0rem;             /* readable, not tiny */
-    padding: 10px 12px;            /* decent tap target */
-    margin: 6px 0;
-    border-top: 1px solid #eee;
-  }
-  .site-nav input:checked ~ .trigger .page-link:first-child {
-    border-top: 0;
-  }
-
-  /* Quote block: don’t dominate the screen */
-  .highlight-voice {
-    padding: 0.85rem 1rem;
-    border-left-width: 6px;
-    font-size: 0.98rem;
-  }
-
-  /* Lede: slightly smaller on small screens */
-  .lede { font-size: 1.02rem; }
+  margin: 0.6rem 0 1rem;
 }
