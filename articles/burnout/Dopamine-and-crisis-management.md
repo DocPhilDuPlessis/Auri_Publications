@@ -1,5 +1,6 @@
 ---
 title: Dopamine and crisis management
+hide_title: true
 ---
 
 ## Introduction  

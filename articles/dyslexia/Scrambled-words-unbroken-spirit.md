@@ -1,5 +1,6 @@
 ---
 title: Scrambled Words, Unbroken Spirit
+hide_title: true
 ---
 
 > “I am so tired of typing messages only to read at the end and see scramble. <br>
