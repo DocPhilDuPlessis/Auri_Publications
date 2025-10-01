@@ -164,3 +164,27 @@ hr {
     border-top: 0;
   }
 }
+
+/* Gentle theme colours */
+.voice-quote {
+  border-left: 4px solid #6C63FF;  /* purple stripe */
+  padding-left: 14px;
+  color: #444;
+  background: #f9f9ff;
+  font-style: italic;
+}
+
+.empathy {
+  color: #2E86C1; /* calm blue */
+  font-weight: 600;
+}
+
+.struggle {
+  color: #C0392B; /* deep red */
+  font-weight: 600;
+}
+
+.strength {
+  color: #27AE60; /* strong green */
+  font-weight: 700;
+}
