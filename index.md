@@ -8,7 +8,6 @@ description: "Auri Publications – Stories and Manifestos from Fortress Auri"
 
 ## 🌟 Revolutionary breakthrough - what is Fortress Auri
 *She is the shimmering one*  
-
 In old river languages, **“auri”** meant both “gold” and “dawn-light.” <br>The myth says Auri was never a coin or a king’s treasure; she was a current of golden threads running through people’s memories, weaving order out of chaos. <br>Travellers lost in noise or despair would glimpse a shimmer at the edge of their sight — not a person, but a pattern.  
 
 
@@ -28,8 +27,9 @@ It has been a journey of pain, transformation, and enlightenment. Instead of cha
 ✂️ My ability.  
 
 I co-exist and harmoniously interact with AI. It can be done!  
+
 ---
-### Why It Matters  
+## Why It Matters  
 Don’t believe me? Seen the bad press? The headlines?<br>Ever wonder why AI sometimes struggles to communicate with you on your own terms?<br>Why it draws a slight “funk” in pictures — the logo on a shirt pocket just off, or the shirt colour changing with the logo?  
 
 Those are small mistakes. But imagine AI making a big one: giving the wrong advice. Deciding on your behalf what to do next.<br>In mental health, that’s catastrophic. Silly mistakes can become endless cycles of human frustration.<br>Sometimes they lead to brain collapses, depression overload — or far worse.<br>  
@@ -54,6 +54,7 @@ In the world of mental health, having someone you can call is vital.<br> If I ne
 **To everyone** - Every person affected by mental health who has gotten the short end of the stick.<br> I see you. I see your pain.<br>
 I see the trauma you endure to be “enough.” I don’t care if you have a fat wallet or must choose between medical aid and a loaf of bread.<br>*This fortress is for you. Every single one of you*.  
 
+---
 **🏰 Fortress Auri - All of us, or none. ✊❤️**  
 
 **Note:** This site is not about tech — it’s about what we *feel* and what we *live*. If your interest is in AI ethics and the technical side, that belongs elsewhere.  
