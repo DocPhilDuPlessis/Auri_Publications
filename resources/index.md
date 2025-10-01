@@ -58,18 +58,5 @@ permalink: /resources/
 - IDA Adult Reading History Questionnaire (ARHQ)  
   https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/
 
-**Assessment & Support (South Africa)**
-- [Dyslexia South Africa](https://dyslexiasouthafrica.com/)  
-- [Stark Griffin Dyslexia Academy](https://www.sgda.co.za/)  
-- [Bellavista School / SHARE (Johannesburg)](https://bellavista.org.za/)  
-- [Oakley House Training & Support Centre (Cape Town)](https://www.oakleyhouse.co.za/training_onlinecourses.html)  
-- [Africa Dyslexia Organization](https://africadyslexia.org/)  
-- [Davis Dyslexia Association Africa](https://www.ddaafrica.com/)
-
-**Assistive Tools & Study Support**
-- [Read&Write (Texthelp)](https://www.texthelp.com/products/read-and-write-education/)  
-- [Touch-Type Read & Spell (TTRS)](https://www.readandspell.com/)  
-- [AbilityNet – Dyslexia tools & free resources](https://abilitynet.org.uk/news-blogs/dyslexia-tools-software-and-free-resources)  
-- [International Dyslexia Association – Assistive Tech overview](https://dyslexiaida.org/instructional-and-assistive-technology-maximizing-the-benefits-for-students-who-struggle/)
 
 > **Note:** Listings are for information, not endorsement. Availability can change; check locally for options in your area.
