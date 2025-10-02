@@ -22,11 +22,12 @@ Accessibility isn’t abstract — it’s lived. These are voices worth centerin
 
 ---
 
-Testing Dyslexia colours
+## Dyslexia colour palette - a simple demo
+The below shows the colours used in the above article
 
-This is a *calm*{: .dyslexia-calm} moment.  
-But then came sudden *panic*{: .dyslexia-alert}.  
-I tried to stay *neutral*{: .dyslexia-neutral},  
-and needed some *encouragement*{: .dyslexia-encouragement}.
+*calm*{: .dyslexia-calm}.
+*alert*{: .dyslexia-alert}.  
+*neutral*{: .dyslexia-neutral}.
+*encouragement*{: .dyslexia-encouragement}.
 
 
