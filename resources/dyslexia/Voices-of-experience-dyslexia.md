@@ -2,10 +2,14 @@
 
 > Direct words shared about what really helps:
 
-1. 🌈 *“I don’t know how it works – but if the words are *colourful*{: .dyslexia-calm}, it registers faster, the brain needs to think less.”*  
-2. 📖 *“For people like me, black and white are the norm. WHen the words are *colourful*{: .dyslexia-encouragement}, they are better to read.”*  
-3. 🔍 *“If I *select*{: .dyslexia-alert} a word on screen, then it must explain in plain language the meaning.”*  
-4. 🌍 *“If I still don’t know, there must be a *language option*{: .dyslexia-neutral} option to translate.”*
+1. 🌈 “I don’t know how it works – but if the words are *colourful*{: .dyslexia-calm}, it registers faster, the brain needs to think less.”  
+
+2. 📖 “For people like me, black and white are the norm. When the words are *colourful*{: .dyslexia-encouragement}, they are better to read.”  
+
+3. 🔍 “If I *select*{: .dyslexia-alert} a word on screen, then it must explain in plain language the meaning.”  
+
+4. 🌍 “If I still don’t know, there must be a *language option*{: .dyslexia-neutral} to translate.”
+
 
 ---
 
