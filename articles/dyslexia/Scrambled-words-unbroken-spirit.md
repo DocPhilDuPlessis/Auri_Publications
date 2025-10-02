@@ -6,21 +6,20 @@ hide_title: true
 > “I am so tired of typing messages only to read at the end and see scramble. <br>
 > Then I wipe out and type again. Over and over. <br>
 > Eventually I get so frustrated I give up.”<br>
-> — His words
-{: .voice-quote }  
+> — His words  
 
 <p class="lede">Those are his words.<br>Not mine — his.</p>
 
 <hr class="section-line">
 If you’ve never lived with dyslexia, maybe it sounds small, even silly. *Just words mixed up on a screen.*<br>
-But to me, it’s heartbreak{: .struggle }. Because I know the weight behind those lines. I’ve seen it my whole life.<br>  
+But to me, it’s heartbreak. Because I know the weight behind those lines. I’ve seen it my whole life.<br>  
 I taught him to read when we were kids. I’ve always been his silent translator — the one who could untangle his meaning when the letters betrayed him.  
 His scars run deep, and I know them all. *Life has not been kind.*  
 <hr class="section-line">
 A “special” school that never really saw him.<br>
 Crap jobs that didn’t honor his worth.<br>
 Years of scraping by when he deserved so much more.<br>
-He has built a life out of grit and persistence{: .strength }. And yet — he endures. He manages. He thrives in his own way.<br>
+He has built a life out of grit and persistence. And yet — he endures. He manages. He thrives in his own way.<br>
 
 <hr class="section-line">
 He is a good man. A great human being. My best friend.<br>

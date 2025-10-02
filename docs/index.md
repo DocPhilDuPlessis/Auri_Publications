@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
-permalink: /blogs/
+title: Docs
+permalink: /docs/
 ---
 
-## Blog
+## Doc
 _Shorter reflections and updates._
 
 - [First post](./first-post.md)
