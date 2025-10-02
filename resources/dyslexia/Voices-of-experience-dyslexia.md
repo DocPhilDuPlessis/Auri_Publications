@@ -25,9 +25,9 @@ Accessibility isn’t abstract — it’s lived. These are voices worth centerin
 ## Dyslexia colour palette - a simple demo
 The below shows the colours used in the above article
 
-*calm*{: .dyslexia-calm}.
-*alert*{: .dyslexia-alert}.  
-*neutral*{: .dyslexia-neutral}.
-*encouragement*{: .dyslexia-encouragement}.
+*calm*{: .dyslexia-calm}.<b>
+*alert*{: .dyslexia-alert}.<b>
+*neutral*{: .dyslexia-neutral}.<b>
+*encouragement*{: .dyslexia-encouragement}.<b>
 
 
