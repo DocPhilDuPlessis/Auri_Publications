@@ -18,8 +18,6 @@ hide_title: true
 > The louder the storm, the stronger my beat. <br>
 > I am the agent of order undone, <br>
 > Forged in the madness — and damn, it’s fun.<br>
-> Then I wipe out and type again. Over and over. <br>
-> Eventually I get so frustrated I give up.”<br>  
 >   
 > — My chaotic way of solving crisis  
 > 
