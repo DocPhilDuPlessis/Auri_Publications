@@ -29,7 +29,8 @@ They don’t see the patience it takes to keep showing up.<br>
 They don’t see the strength it takes to keep going.  
 <hr class="section-line">
 I see it. I have always seen it. And I want you to see it too.<br>
-To my best friend: you are not defined by <span class="empathy">scrambled words</span>.<br>You are defined by the way you keep showing up, no matter how many times the world told you “not enough.”<br>
+To my best friend: you are not defined by scrambled words.<br>
+You are defined by the way you keep showing up, no matter how many times the world told you “not enough.”<br>
 You are defined by kindness, by courage, by the quiet power of refusing to fold.  
 
 Your story is not just about dyslexia. *It’s about resilience.*<br>

@@ -108,64 +108,11 @@
   margin: 0.6rem 0 1rem;
 }
 
-/* Dyslexia Article Highlight Classes */
-.struggle, span.struggle, div.struggle {
-  background: linear-gradient(90deg, #ffecd2 0%, #fcb69f 100%);
-  color: #b22222;
-  padding: 0.1em 0.3em;
-  border-radius: 0.3em;
-  font-weight: bold;
-  display: block;
-  width: fit-content;
-  margin: 0.5em 0;
-}
-.strength, span.strength, div.strength {
-  background: linear-gradient(90deg, #d4fc79 0%, #96e6a1 100%);
-  color: #228B22;
-  padding: 0.1em 0.3em;
-  border-radius: 0.3em;
-  font-weight: bold;
-  display: block;
-  width: fit-content;
-  margin: 0.5em 0;
-}
-.empathy, span.empathy, div.empathy {
-  background: linear-gradient(90deg, #a1c4fd 0%, #c2e9fb 100%);
-  color: #1e3c72;
-  padding: 0.1em 0.3em;
-  border-radius: 0.3em;
-  font-weight: bold;
-  display: block;
-  width: fit-content;
-  margin: 0.5em 0;
-}
-.voice-quote {
-  display: block;
-  background: #fffbe6;
-  border-left: 6px solid #ffd700;
-  color: #7c4700;
-  padding: 0.7em 1em;
-  margin: 1em 0;
-  font-style: italic;
-  font-size: 1.08em;
-}
 
-/* ---------- Mobile (≤599px) Dyslexia Highlights ---------- */
-@media (max-width: 599px) {
-  .struggle, span.struggle, div.struggle,
-  .strength, span.strength, div.strength,
-  .empathy, span.empathy, div.empathy {
-    font-size: 1.12em;
-    padding: 0.15em 0.4em;
-    border-radius: 0.4em;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.07);
-    display: block;
-    width: fit-content;
-    margin: 0.5em 0;
-  }
-  .voice-quote {
-    font-size: 1.12em;
-    padding: 0.9em 1em;
-    border-left-width: 7px;
-  }
-}
+/* =========================
+   Dyslexia helper classes (minimal reset) (Desktop/Global)
+   ========================= */
+.dyslexia-calm { color: #a8dadc; }
+.dyslexia-alert { color: #f4a261; }
+.dyslexia-neutral { color: #6c757d; }
+.dyslexia-encouragement { color: #ffe066; }
